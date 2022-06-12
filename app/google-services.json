@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "816029391606",
+    "project_id": "anemonelaundry-e28fb",
+    "storage_bucket": "anemonelaundry-e28fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816029391606:android:c2060d0f0a17933d376ad7",
+        "android_client_info": {
+          "package_name": "com.example.anemonelaundry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816029391606-m2pc0nos660hv0ic7v6p218g25ndi9vn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anemonelaundry",
+            "certificate_hash": "3f7157638c5fd48ecef2506228e404bc2c3dbf82"
+          }
+        },
+        {
+          "client_id": "816029391606-582jsfd20lrbocbbf987ims25sg3hcsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKlupDpQaKxIK62tgn7eHYAgyknroLdKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816029391606-582jsfd20lrbocbbf987ims25sg3hcsi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
