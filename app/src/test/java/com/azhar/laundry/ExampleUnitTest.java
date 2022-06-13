@@ -1,4 +1,4 @@
-package com.example.anemonelaundry;
+package com.azhar.laundry;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.example.anemonelaundry;
+package com.azhar.laundry;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.anemonelaundry", appContext.getPackageName());
+        assertEquals("com.azhar.laundry", appContext.getPackageName());
     }
 }
